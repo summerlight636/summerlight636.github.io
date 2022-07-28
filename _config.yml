@@ -26,11 +26,11 @@ title:                 하영
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
+description:           
   개발 블로그입니다. :) 
 
 # A shorter description for the sidebar.
-tagline:               >
+tagline:               
   블로그 
 
 # A list of keywords for your blog
