@@ -22,7 +22,7 @@ baseurl:               summerlight.github.io
 lang:                  ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 하영
+title:                 HaYoung Jung
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -31,7 +31,7 @@ description:
 
 # A shorter description for the sidebar.
 tagline:               
-  블로그 
+  Study Note
 
 # A list of keywords for your blog
 keywords:              []
